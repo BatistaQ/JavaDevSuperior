@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Construtores/Construtores.iml" filepath="$PROJECT_DIR$/Construtores/Construtores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For/For.iml" filepath="$PROJECT_DIR$/For/For.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Projects.iml" filepath="$PROJECT_DIR$/.idea/Java Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POOpt1/POOpt1.iml" filepath="$PROJECT_DIR$/POOpt1/POOpt1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POOpt2/POOpt2.iml" filepath="$PROJECT_DIR$/POOpt2/POOpt2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POOpt3/POOpt3.iml" filepath="$PROJECT_DIR$/POOpt3/POOpt3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boxing_unboxing/boxing_unboxing.iml" filepath="$PROJECT_DIR$/boxing_unboxing/boxing_unboxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-hora/data-hora.iml" filepath="$PROJECT_DIR$/data-hora/data-hora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-horaCalculos/data-horaCalculos.iml" filepath="$PROJECT_DIR$/data-horaCalculos/data-horaCalculos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-horaPT2/data-horaPT2.iml" filepath="$PROJECT_DIR$/data-horaPT2/data-horaPT2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doWhile/doWhile.iml" filepath="$PROJECT_DIR$/doWhile/doWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entradaDeDados_Scanner/entradaDeDados_Scanner.iml" filepath="$PROJECT_DIR$/entradaDeDados_Scanner/entradaDeDados_Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entradaDeDados_scanner2/entradaDeDados_scanner2.iml" filepath="$PROJECT_DIR$/entradaDeDados_scanner2/entradaDeDados_scanner2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturaCondicional/estruturaCondicional.iml" filepath="$PROJECT_DIR$/estruturaCondicional/estruturaCondicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturaDeRepeticao/estruturaDeRepeticao.iml" filepath="$PROJECT_DIR$/estruturaDeRepeticao/estruturaDeRepeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exBanco/exBanco.iml" filepath="$PROJECT_DIR$/exBanco/exBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exLista/exLista.iml" filepath="$PROJECT_DIR$/exLista/exLista.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exLista2/exLista2.iml" filepath="$PROJECT_DIR$/exLista2/exLista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exMatriz/exMatriz.iml" filepath="$PROJECT_DIR$/exMatriz/exMatriz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exMembrosEstaticos/exMembrosEstaticos.iml" filepath="$PROJECT_DIR$/exMembrosEstaticos/exMembrosEstaticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exPOO1/exPOO1.iml" filepath="$PROJECT_DIR$/exPOO1/exPOO1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exPOO2/exPOO2.iml" filepath="$PROJECT_DIR$/exPOO2/exPOO2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exPOO3/exPOO3.iml" filepath="$PROJECT_DIR$/exPOO3/exPOO3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exResolvidoMatrizes/exResolvidoMatrizes.iml" filepath="$PROJECT_DIR$/exResolvidoMatrizes/exResolvidoMatrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosEntradaDeDados/exerciciosEntradaDeDados.iml" filepath="$PROJECT_DIR$/exerciciosEntradaDeDados/exerciciosEntradaDeDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstOne/firstOne.iml" filepath="$PROJECT_DIR$/firstOne/firstOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forEach/forEach.iml" filepath="$PROJECT_DIR$/forEach/forEach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funcoesSintaxe/funcoesSintaxe.iml" filepath="$PROJECT_DIR$/funcoesSintaxe/funcoesSintaxe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funcoesString/funcoesString.iml" filepath="$PROJECT_DIR$/funcoesString/funcoesString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listasPT1/listasPT1.iml" filepath="$PROJECT_DIR$/listasPT1/listasPT1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/membrosEstaticosPT1/membrosEstaticosPT1.iml" filepath="$PROJECT_DIR$/membrosEstaticosPT1/membrosEstaticosPT1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operacaoSplit/operacaoSplit.iml" filepath="$PROJECT_DIR$/operacaoSplit/operacaoSplit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testeProcessamento/testeProcessamento.iml" filepath="$PROJECT_DIR$/testeProcessamento/testeProcessamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetores/vetores.iml" filepath="$PROJECT_DIR$/vetores/vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetoresPT2/vetoresPT2.iml" filepath="$PROJECT_DIR$/vetoresPT2/vetoresPT2.iml" />
+    </modules>
+  </component>
+</project>
