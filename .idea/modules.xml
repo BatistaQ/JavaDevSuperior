@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/estruturaCondicional/estruturaCondicional.iml" filepath="$PROJECT_DIR$/estruturaCondicional/estruturaCondicional.iml" />
       <module fileurl="file://$PROJECT_DIR$/estruturaDeRepeticao/estruturaDeRepeticao.iml" filepath="$PROJECT_DIR$/estruturaDeRepeticao/estruturaDeRepeticao.iml" />
       <module fileurl="file://$PROJECT_DIR$/exBanco/exBanco.iml" filepath="$PROJECT_DIR$/exBanco/exBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exComposicaoEnum/exComposicaoEnum.iml" filepath="$PROJECT_DIR$/exComposicaoEnum/exComposicaoEnum.iml" />
       <module fileurl="file://$PROJECT_DIR$/exLista/exLista.iml" filepath="$PROJECT_DIR$/exLista/exLista.iml" />
       <module fileurl="file://$PROJECT_DIR$/exLista2/exLista2.iml" filepath="$PROJECT_DIR$/exLista2/exLista2.iml" />
       <module fileurl="file://$PROJECT_DIR$/exMatriz/exMatriz.iml" filepath="$PROJECT_DIR$/exMatriz/exMatriz.iml" />
@@ -29,6 +30,7 @@
       <module fileurl="file://$PROJECT_DIR$/exPOO3/exPOO3.iml" filepath="$PROJECT_DIR$/exPOO3/exPOO3.iml" />
       <module fileurl="file://$PROJECT_DIR$/exResolvidoComposition1/exResolvidoComposition1.iml" filepath="$PROJECT_DIR$/exResolvidoComposition1/exResolvidoComposition1.iml" />
       <module fileurl="file://$PROJECT_DIR$/exResolvidoMatrizes/exResolvidoMatrizes.iml" filepath="$PROJECT_DIR$/exResolvidoMatrizes/exResolvidoMatrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exResolvidoStringBuilder/exResolvidoStringBuilder.iml" filepath="$PROJECT_DIR$/exResolvidoStringBuilder/exResolvidoStringBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/exerciciosEntradaDeDados/exerciciosEntradaDeDados.iml" filepath="$PROJECT_DIR$/exerciciosEntradaDeDados/exerciciosEntradaDeDados.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstOne/firstOne.iml" filepath="$PROJECT_DIR$/firstOne/firstOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/forEach/forEach.iml" filepath="$PROJECT_DIR$/forEach/forEach.iml" />

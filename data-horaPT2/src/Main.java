@@ -44,8 +44,5 @@ public class Main {
 
         System.out.println("d05 hora = " + d05.getHour());
         System.out.println("d05 minutos = " + d05.getMinute());
-
-
-
     }
 }
