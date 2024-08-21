@@ -25,8 +25,8 @@ public class SavingsAccount extends Account{
     }
 
     //Evita sobreposicoes multiplas
-    /*@Override
+    @Override
     public final void withdraw(double amount){
         balance -= amount;
-    } */
+    }
 }
