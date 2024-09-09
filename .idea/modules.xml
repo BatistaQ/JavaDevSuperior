@@ -24,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/estruturaDeRepeticao/estruturaDeRepeticao.iml" filepath="$PROJECT_DIR$/estruturaDeRepeticao/estruturaDeRepeticao.iml" />
       <module fileurl="file://$PROJECT_DIR$/exBanco/exBanco.iml" filepath="$PROJECT_DIR$/exBanco/exBanco.iml" />
       <module fileurl="file://$PROJECT_DIR$/exComposicaoEnum/exComposicaoEnum.iml" filepath="$PROJECT_DIR$/exComposicaoEnum/exComposicaoEnum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exFixacaoClassesAbstratas/exFixacaoClassesAbstratas.iml" filepath="$PROJECT_DIR$/exFixacaoClassesAbstratas/exFixacaoClassesAbstratas.iml" />
       <module fileurl="file://$PROJECT_DIR$/exLista/exLista.iml" filepath="$PROJECT_DIR$/exLista/exLista.iml" />
       <module fileurl="file://$PROJECT_DIR$/exLista2/exLista2.iml" filepath="$PROJECT_DIR$/exLista2/exLista2.iml" />
       <module fileurl="file://$PROJECT_DIR$/exMatriz/exMatriz.iml" filepath="$PROJECT_DIR$/exMatriz/exMatriz.iml" />
@@ -44,6 +45,7 @@
       <module fileurl="file://$PROJECT_DIR$/heranca/heranca.iml" filepath="$PROJECT_DIR$/heranca/heranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/listasPT1/listasPT1.iml" filepath="$PROJECT_DIR$/listasPT1/listasPT1.iml" />
       <module fileurl="file://$PROJECT_DIR$/membrosEstaticosPT1/membrosEstaticosPT1.iml" filepath="$PROJECT_DIR$/membrosEstaticosPT1/membrosEstaticosPT1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodosAbstratos/metodosAbstratos.iml" filepath="$PROJECT_DIR$/metodosAbstratos/metodosAbstratos.iml" />
       <module fileurl="file://$PROJECT_DIR$/operacaoSplit/operacaoSplit.iml" filepath="$PROJECT_DIR$/operacaoSplit/operacaoSplit.iml" />
       <module fileurl="file://$PROJECT_DIR$/polimorfismo/polimorfismo.iml" filepath="$PROJECT_DIR$/polimorfismo/polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/sobreposicao/sobreposicao.iml" filepath="$PROJECT_DIR$/sobreposicao/sobreposicao.iml" />
