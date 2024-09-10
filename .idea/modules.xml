@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/POOpt2/POOpt2.iml" filepath="$PROJECT_DIR$/POOpt2/POOpt2.iml" />
       <module fileurl="file://$PROJECT_DIR$/POOpt3/POOpt3.iml" filepath="$PROJECT_DIR$/POOpt3/POOpt3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Upcasting_Downcasting/Upcasting_Downcasting.iml" filepath="$PROJECT_DIR$/Upcasting_Downcasting/Upcasting_Downcasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blocoFinally/blocoFinally.iml" filepath="$PROJECT_DIR$/blocoFinally/blocoFinally.iml" />
       <module fileurl="file://$PROJECT_DIR$/boxing_unboxing/boxing_unboxing.iml" filepath="$PROJECT_DIR$/boxing_unboxing/boxing_unboxing.iml" />
       <module fileurl="file://$PROJECT_DIR$/classesAbstratas/classesAbstratas.iml" filepath="$PROJECT_DIR$/classesAbstratas/classesAbstratas.iml" />
       <module fileurl="file://$PROJECT_DIR$/classes_metodosFinal/classes_metodosFinal.iml" filepath="$PROJECT_DIR$/classes_metodosFinal/classes_metodosFinal.iml" />
@@ -50,6 +51,7 @@
       <module fileurl="file://$PROJECT_DIR$/polimorfismo/polimorfismo.iml" filepath="$PROJECT_DIR$/polimorfismo/polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/sobreposicao/sobreposicao.iml" filepath="$PROJECT_DIR$/sobreposicao/sobreposicao.iml" />
       <module fileurl="file://$PROJECT_DIR$/testeProcessamento/testeProcessamento.iml" filepath="$PROJECT_DIR$/testeProcessamento/testeProcessamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tryCatch/tryCatch.iml" filepath="$PROJECT_DIR$/tryCatch/tryCatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/vetores/vetores.iml" filepath="$PROJECT_DIR$/vetores/vetores.iml" />
       <module fileurl="file://$PROJECT_DIR$/vetoresPT2/vetoresPT2.iml" filepath="$PROJECT_DIR$/vetoresPT2/vetoresPT2.iml" />
     </modules>
