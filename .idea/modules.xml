@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Construtores/Construtores.iml" filepath="$PROJECT_DIR$/Construtores/Construtores.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileReaderBufferedReader/FileReaderBufferedReader.iml" filepath="$PROJECT_DIR$/FileReaderBufferedReader/FileReaderBufferedReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileWritter_BufferedWritter/FileWritter_BufferedWritter.iml" filepath="$PROJECT_DIR$/FileWritter_BufferedWritter/FileWritter_BufferedWritter.iml" />
       <module fileurl="file://$PROJECT_DIR$/For/For.iml" filepath="$PROJECT_DIR$/For/For.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java Projects.iml" filepath="$PROJECT_DIR$/.idea/Java Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/POOpt1/POOpt1.iml" filepath="$PROJECT_DIR$/POOpt1/POOpt1.iml" />
@@ -46,8 +47,10 @@
       <module fileurl="file://$PROJECT_DIR$/funcoesSintaxe/funcoesSintaxe.iml" filepath="$PROJECT_DIR$/funcoesSintaxe/funcoesSintaxe.iml" />
       <module fileurl="file://$PROJECT_DIR$/funcoesString/funcoesString.iml" filepath="$PROJECT_DIR$/funcoesString/funcoesString.iml" />
       <module fileurl="file://$PROJECT_DIR$/heranca/heranca.iml" filepath="$PROJECT_DIR$/heranca/heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infoCaminhoArquivo/infoCaminhoArquivo.iml" filepath="$PROJECT_DIR$/infoCaminhoArquivo/infoCaminhoArquivo.iml" />
       <module fileurl="file://$PROJECT_DIR$/lendoArquivosFileScanner/lendoArquivosFileScanner.iml" filepath="$PROJECT_DIR$/lendoArquivosFileScanner/lendoArquivosFileScanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/listasPT1/listasPT1.iml" filepath="$PROJECT_DIR$/listasPT1/listasPT1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manipulandoPastascomFile/manipulandoPastascomFile.iml" filepath="$PROJECT_DIR$/manipulandoPastascomFile/manipulandoPastascomFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/membrosEstaticosPT1/membrosEstaticosPT1.iml" filepath="$PROJECT_DIR$/membrosEstaticosPT1/membrosEstaticosPT1.iml" />
       <module fileurl="file://$PROJECT_DIR$/metodosAbstratos/metodosAbstratos.iml" filepath="$PROJECT_DIR$/metodosAbstratos/metodosAbstratos.iml" />
       <module fileurl="file://$PROJECT_DIR$/operacaoSplit/operacaoSplit.iml" filepath="$PROJECT_DIR$/operacaoSplit/operacaoSplit.iml" />
@@ -55,6 +58,7 @@
       <module fileurl="file://$PROJECT_DIR$/sobreposicao/sobreposicao.iml" filepath="$PROJECT_DIR$/sobreposicao/sobreposicao.iml" />
       <module fileurl="file://$PROJECT_DIR$/testeProcessamento/testeProcessamento.iml" filepath="$PROJECT_DIR$/testeProcessamento/testeProcessamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/tryCatch/tryCatch.iml" filepath="$PROJECT_DIR$/tryCatch/tryCatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tryWithResources/tryWithResources.iml" filepath="$PROJECT_DIR$/tryWithResources/tryWithResources.iml" />
       <module fileurl="file://$PROJECT_DIR$/vetores/vetores.iml" filepath="$PROJECT_DIR$/vetores/vetores.iml" />
       <module fileurl="file://$PROJECT_DIR$/vetoresPT2/vetoresPT2.iml" filepath="$PROJECT_DIR$/vetoresPT2/vetoresPT2.iml" />
     </modules>
