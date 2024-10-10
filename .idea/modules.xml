@@ -28,6 +28,8 @@
       <module fileurl="file://$PROJECT_DIR$/exBanco/exBanco.iml" filepath="$PROJECT_DIR$/exBanco/exBanco.iml" />
       <module fileurl="file://$PROJECT_DIR$/exComposicaoEnum/exComposicaoEnum.iml" filepath="$PROJECT_DIR$/exComposicaoEnum/exComposicaoEnum.iml" />
       <module fileurl="file://$PROJECT_DIR$/exFixacaoClassesAbstratas/exFixacaoClassesAbstratas.iml" filepath="$PROJECT_DIR$/exFixacaoClassesAbstratas/exFixacaoClassesAbstratas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exFixacaoINterfaces/exFixacaoINterfaces.iml" filepath="$PROJECT_DIR$/exFixacaoINterfaces/exFixacaoINterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exInterfaces/exInterfaces.iml" filepath="$PROJECT_DIR$/exInterfaces/exInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/exLista/exLista.iml" filepath="$PROJECT_DIR$/exLista/exLista.iml" />
       <module fileurl="file://$PROJECT_DIR$/exLista2/exLista2.iml" filepath="$PROJECT_DIR$/exLista2/exLista2.iml" />
       <module fileurl="file://$PROJECT_DIR$/exManipulandoArquivos/exManipulandoArquivos.iml" filepath="$PROJECT_DIR$/exManipulandoArquivos/exManipulandoArquivos.iml" />
