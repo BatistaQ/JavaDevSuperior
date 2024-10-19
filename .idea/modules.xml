@@ -51,6 +51,7 @@
       <module fileurl="file://$PROJECT_DIR$/funcoesString/funcoesString.iml" filepath="$PROJECT_DIR$/funcoesString/funcoesString.iml" />
       <module fileurl="file://$PROJECT_DIR$/heranca/heranca.iml" filepath="$PROJECT_DIR$/heranca/heranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/infoCaminhoArquivo/infoCaminhoArquivo.iml" filepath="$PROJECT_DIR$/infoCaminhoArquivo/infoCaminhoArquivo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaceComparable/interfaceComparable.iml" filepath="$PROJECT_DIR$/interfaceComparable/interfaceComparable.iml" />
       <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/lendoArquivosFileScanner/lendoArquivosFileScanner.iml" filepath="$PROJECT_DIR$/lendoArquivosFileScanner/lendoArquivosFileScanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/listasPT1/listasPT1.iml" filepath="$PROJECT_DIR$/listasPT1/listasPT1.iml" />
