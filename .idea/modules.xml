@@ -36,6 +36,7 @@
       <module fileurl="file://$PROJECT_DIR$/exFixacaoINterfaces/exFixacaoINterfaces.iml" filepath="$PROJECT_DIR$/exFixacaoINterfaces/exFixacaoINterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/exFixacaoMap/exFixacaoMap.iml" filepath="$PROJECT_DIR$/exFixacaoMap/exFixacaoMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/exFixacaoSet/exFixacaoSet.iml" filepath="$PROJECT_DIR$/exFixacaoSet/exFixacaoSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exFixacaoStream/exFixacaoStream.iml" filepath="$PROJECT_DIR$/exFixacaoStream/exFixacaoStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/exInterfaces/exInterfaces.iml" filepath="$PROJECT_DIR$/exInterfaces/exInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/exLista/exLista.iml" filepath="$PROJECT_DIR$/exLista/exLista.iml" />
       <module fileurl="file://$PROJECT_DIR$/exLista2/exLista2.iml" filepath="$PROJECT_DIR$/exLista2/exLista2.iml" />
