@@ -63,6 +63,7 @@
       <module fileurl="file://$PROJECT_DIR$/infoCaminhoArquivo/infoCaminhoArquivo.iml" filepath="$PROJECT_DIR$/infoCaminhoArquivo/infoCaminhoArquivo.iml" />
       <module fileurl="file://$PROJECT_DIR$/interfaceComparable/interfaceComparable.iml" filepath="$PROJECT_DIR$/interfaceComparable/interfaceComparable.iml" />
       <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc1/jdbc1.iml" filepath="$PROJECT_DIR$/jdbc1/jdbc1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lendoArquivosFileScanner/lendoArquivosFileScanner.iml" filepath="$PROJECT_DIR$/lendoArquivosFileScanner/lendoArquivosFileScanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/listasPT1/listasPT1.iml" filepath="$PROJECT_DIR$/listasPT1/listasPT1.iml" />
       <module fileurl="file://$PROJECT_DIR$/manipulandoPastascomFile/manipulandoPastascomFile.iml" filepath="$PROJECT_DIR$/manipulandoPastascomFile/manipulandoPastascomFile.iml" />
